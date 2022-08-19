@@ -1,0 +1,38 @@
+{
+    "id": 1,
+    "name": "Billy J. Michael",
+    "data": [
+        {
+            "productId": "PERRT-1265",
+            "productName": "Fantastic Rubber Pizza",
+            "purchaseDate": "2020-01-05",
+            "purchasedQuantity": 3,
+            "amount": 20,
+            "month": "January"
+        },
+        {
+            "productId": "PERRT-1265",
+            "productName": "French Fries",
+            "purchaseDate": "2020-03-05",
+            "purchasedQuantity": 4,
+            "amount": 1040,
+            "month": "March"
+        },
+        {
+            "productId": "PERRT-1265",
+            "productName": "Extra Crispy Potatose",
+            "purchaseDate": "2020-03-05",
+            "purchasedQuantity": 1,
+            "amount": 1040,
+            "month": "March"
+        },
+        {
+            "productId": "PERRT-1265",
+            "productName": "Golden Twirls",
+            "purchaseDate": "2020-02-05",
+            "purchasedQuantity": 10,
+            "amount": 1040,
+            "month": "February"
+        }
+    ]
+}
