@@ -157,7 +157,7 @@ export default function CollapsibleTable(props) {
   const rows = [
     createData({
       id: 1,
-      name: "Billy J. Michael",
+      name: "Billy J Michael",
       data: [
         {
           productId: "PERRT-1265",
