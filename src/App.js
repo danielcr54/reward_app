@@ -1,11 +1,10 @@
 import "./App.css";
-import NavBar from "./NavBar.js";
-import Body from "./Body";
+import HomePage from "./Screen/HomePage";
+
 function App() {
   return (
     <div className="App">
-      <NavBar />
-      <Body />
+      <HomePage />
     </div>
   );
 }
